@@ -1,0 +1,34 @@
+body{
+    font-family: cursive;
+}
+
+input {
+    height: 37px;
+    width: 199px;
+    font-size: 20px;
+    border-color: darkred;
+    border-bottom-style: groove;
+
+
+}
+button{
+    height: 28px;
+    width: 70px;
+    border-color: violet;
+    background-color: turquoise;
+}
+.btn{
+    height: 39px;
+    width: 85px;
+    border-color: violet;
+    background-color: turquoise
+}
+
+#div{
+    display: none;
+}
+
+#list{
+
+    color:  maroon;
+}
